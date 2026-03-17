@@ -1,3 +1,5 @@
 # Terraform
 Learning Terraform
-Terraform Initialized & created a lock file.
+1. Terraform Initialized & created a lock file.
+2. Created VPC
+
