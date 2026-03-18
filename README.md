@@ -9,5 +9,6 @@ Learning Terraform
 8. Create Route table
 9. Bridge the gap between route table and subnet by providing a route table association.
 10. Add Security Groups
+11. The AMI Datasource
 
 
