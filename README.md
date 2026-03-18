@@ -5,4 +5,5 @@ Learning Terraform
 3. Destroy Terraform command
 4. Re-apply Terraform
 5. Create a subnet
+6. Internet Gateway and Terraform fmt (which fixes your code format)
 
