@@ -4,4 +4,5 @@ Learning Terraform
 2. Created VPC
 3. Destroy Terraform command
 4. Re-apply Terraform
+5. Create a subnet
 
