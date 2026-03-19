@@ -11,5 +11,5 @@ Learning Terraform
 10. Add Security Groups
 11. The AMI Datasource
 12. The Key Pair (using file function)
-
+13. EC2 Instance, time to build & deploy.
 
