@@ -14,5 +14,6 @@ Learning Terraform
 13. EC2 Instance, time to build & deploy.
 14. Userdata
 15. SSH Config Scripts
+16. Provisioners
 
 
