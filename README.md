@@ -13,4 +13,6 @@ Learning Terraform
 12. The Key Pair (using file function)
 13. EC2 Instance, time to build & deploy.
 14. Userdata
+15. SSH Config Scripts
+
 
