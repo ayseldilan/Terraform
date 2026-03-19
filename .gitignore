@@ -8,3 +8,8 @@ terraform.tfstate.backup
 
 # Terraform lock file
 .terraform.lock.hcl
+
+.env
+*.pem
+*.key
+*.tfstate*
