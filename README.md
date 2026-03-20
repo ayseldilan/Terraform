@@ -15,5 +15,7 @@ Learning Terraform
 14. Userdata
 15. SSH Config Scripts
 16. Provisioners
+17. Terraform Apply - replace
+18. Variables in Terraform
 
 
