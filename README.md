@@ -18,5 +18,6 @@ Learning Terraform
 17. Terraform Apply - replace
 18. Variables in Terraform
 19. Variable Precedence (Dynamic Input & use terraform console)
+20. Conditionals
 
 
